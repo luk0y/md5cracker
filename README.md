@@ -7,7 +7,7 @@ No more complicated steps there to use ... it's just simple as you drink water
 
 How to execute : 
 
-#python3 md5cracker.py 
+python3 md5cracker.py 
 
 or 
 
